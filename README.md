@@ -1,1 +1,1 @@
-# Julie's github-hosted Quarto website
+# Julie's Quarto website
